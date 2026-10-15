@@ -1,0 +1,44 @@
+[
+    {
+        "name": "African Lion",
+        "type": "Mammal",
+        "age": 8,
+        "habitat": "Savanna",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lion_(Panthera_leo)_male_6y.jpg?width=800"
+    },
+    {
+        "name": "Emperor Penguin",
+        "type": "Bird",
+        "age": 5,
+        "habitat": "Antarctic coast",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_penguins.jpg?width=800"
+    },
+    {
+        "name": "Green Sea Turtle",
+        "type": "Reptile",
+        "age": 40,
+        "habitat": "Tropical ocean",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Green_sea_turtle.jpg?width=800"
+    },
+    {
+        "name": "Red-Eyed Tree Frog",
+        "type": "Amphibian",
+        "age": 3,
+        "habitat": "Rainforest",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_eyed_tree_frog_edit2.jpg?width=800"
+    },
+    {
+        "name": "Clownfish",
+        "type": "Fish",
+        "age": 4,
+        "habitat": "Coral reef",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_clownfish_curves_dnsmpl.jpg?width=800"
+    },
+    {
+        "name": "Monarch Butterfly",
+        "type": "Insect",
+        "age": 1,
+        "habitat": "Meadows and milkweed fields",
+        "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monarch_butterfly_in_BBG_(84685).jpg?width=800"
+    }
+]
